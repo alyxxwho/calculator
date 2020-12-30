@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/alisarudovskaa/calculator/task_calculator.cpp
+iostream
+-
+string
+-
+vector
+-
+iterator
+-
+algorithm
+-
+
